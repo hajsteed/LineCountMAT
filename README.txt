@@ -1,3 +1,5 @@
+This package sets out to automate the process of counting and measuring the width of daily growth lines in giant clam shells. Currently, identifying and measuring these lines is a lengthy process, requiring experts to manually count and label each image. This package utilises the wavelet transform to detect and highlight these features within the image.
+
 REQUIRED TOOLBOXES:
 
 Signal processing toolbox
